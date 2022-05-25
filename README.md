@@ -14,3 +14,10 @@ INSTRUCTIONS:
 2) Open the .exe File
 3) Run FiveM.
 4) Press the inject button (F8).
+
+
+
+
+Download LINK 
+
+ https://anonfiles.com/hcKdOdj6ya/FiveM-Lua-Injector_exe
